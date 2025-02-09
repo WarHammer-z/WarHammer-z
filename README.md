@@ -3,8 +3,10 @@
 
 [@WarHammer](https://github.com/WarHammer-z)
 > Kral!
----
+> 
 [@ChillerDragon](https://github.com/ChillerDragon)
 > Kral!
 >
 > 
+
+![boo](https://raw.githubusercontent.com/WarHammer-z/WarHammer-z/master/boo.png)
